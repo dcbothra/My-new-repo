@@ -1,0 +1,30 @@
+*  Hash: ceb5704 Date: 12 minutes ago
+|  Message: try 
+*    Hash: f701c7a Date: 18 minutes ago
+|\   Message: Merge branch 'main' of github.com:dcbothra/My-new-repo 
+| *  Hash: ab2ecf7 Date: 44 minutes ago
+|    Message: Create LICENSE.md 
+*  Hash: 976e2ef Date: 53 minutes ago
+|  Message: New file made 
+*  Hash: 7c7112a Date: 54 minutes ago
+|  Message: New file made 
+*  Hash: 02225f4 Date: Sat 17:39
+|  Message: 2nd 
+*  Hash: 93b35aa Date: Sat 17:23
+   Message: essage 
+* ceb5704
+*   f701c7a
+|\  
+| * ab2ecf7
+* 976e2ef
+* 7c7112a
+* 02225f4
+* 93b35aa
+* ceb5704 (HEAD -> main, origin/main) try
+*   f701c7a Merge branch 'main' of github.com:dcbothra/My-new-repo
+|\  
+| * ab2ecf7 Create LICENSE.md
+* 976e2ef (NewBranch) New file made
+* 7c7112a New file made
+* 02225f4 2nd
+* 93b35aa essage
